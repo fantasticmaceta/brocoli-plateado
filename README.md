@@ -1,2 +1,2 @@
 # brocoli-plateado
-Estamos aprendiendo ha utilizar github con el techer de informatica
+Estamos aprendiendo ha utilizar github con el teacher de informatica
